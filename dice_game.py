@@ -102,8 +102,8 @@ def main():
 	########################################
 
 	################ EDIT 2 ################
-	# nrounds = int(raw_input('How many rounds shall we play: '))
-	# play(nrounds)
+	 nrounds = int(raw_input('How many rounds shall we play: '))
+	 play(nrounds)
 	########################################
 
 	play(2) 
